@@ -1,3 +1,5 @@
+# cloud-admin-portfolio
+
 # Hi, I'm Mallory 👋
 ### Aspiring Cloud Administrator & Cloud Security Specialist
 
@@ -6,7 +8,7 @@ I am currently pursuing an **Associate of Applied Science in Cloud System Manage
 ---
 
 ### 🎯 Current Focus & Certifications
-* **In Progress:** IT Essentials issued by Cisco Networking Academy
+* **In Progress:**  IT Essentials issued by Cisco Networking Academy
 * **Core Skills:** Hardware, Software, Networking, Security
 
 ---
@@ -19,4 +21,4 @@ I am currently pursuing an **Associate of Applied Science in Cloud System Manage
 ### 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/mallory-morrow-30aaa9122/
 * **Email:** malloryjean89@yahoo.com
-# cloud-admin-portfolio
+
